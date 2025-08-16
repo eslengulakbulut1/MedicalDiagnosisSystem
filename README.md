@@ -37,3 +37,4 @@ Hasta, Çalışan ve Seans yönetimi	⚪
 Görüntü işleme ve yapay zeka entegrasyonu	⚪
 Web/Mobil arayüz geliştirme	⚪
 
+**
