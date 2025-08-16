@@ -23,7 +23,7 @@ MedicalDiagnosisSystem/
 └── README.md # Proje açıklaması
 
 ## 🛠️ Kullanılan Teknolojiler
-- .NET 8 / C#
+- .NET8.0 / C#
 - Entity Framework Core
 - SQL Server
 - ASP.NET Core Web API
